@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+  int a,b;
+  c=a+b;
+  printf("enter the a,b values=%d\n");
+  return 0;
+} 
